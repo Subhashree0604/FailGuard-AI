@@ -1,0 +1,6 @@
+{
+  "name": "FailGuard AI",
+  "description": "AI-Powered Cascading Software Failure Prediction, Root Cause Analysis, and Intelligent Recovery System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
